@@ -81,7 +81,6 @@ All tools are **open-source and free of cost** ✅
 
 1️⃣ Clone the Repository
 
-```bash
 git clone https://github.com/your-username/rag-pdf-search.git
 cd rag-pdf-search
 
